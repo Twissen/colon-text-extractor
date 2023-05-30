@@ -1,0 +1,3 @@
+input your colon text here example:
+text1:text2:text3
+texta1:texta2:texta3
