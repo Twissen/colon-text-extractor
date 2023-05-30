@@ -1,5 +1,5 @@
 # colon-text-separator
-Get the desired part of the texts formatted like text1:text2:text3:text4...
+Extract text needed from the the formatted texts using colons, like text1:text2:text3:text4... (3) -> output is text3.
 
 
 How to use?
